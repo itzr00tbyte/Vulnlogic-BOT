@@ -17,10 +17,9 @@ Alternatively, [find me on telegram](https://t.me/SonOfLars)! (Keep all support 
 
 ## You can also tap the Deploy To Heroku button below to deploy straight to Heroku!
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TGExplore/Marie-2.0-English)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/AmshenShanu07/Bot_Enflush_ver)
 
 ## Starting the bot.
-
 Once you've setup your database and your configuration (see below) is complete, simply run:
 
 `python3 -m tg_bot`
