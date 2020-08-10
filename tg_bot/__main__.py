@@ -141,7 +141,8 @@ def start(bot: Bot, update: Update, args: List[str]):
                 PM_START_TEXT.format(escape_markdown(first_name), escape_markdown(bot.first_name), OWNER_ID),
                 parse_mode=ParseMode.MARKDOWN)
     else:
-        update.effective_message.reply_text("I am alive /n and working fine /n LOL!")
+        update.effective_message.reply_text('''I am alive and working fine
+LOL!''')
 
 
 # for test purposes
