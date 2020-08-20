@@ -18,14 +18,14 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-hoi {}, my name is {}! if you have any questions about how to use me please give me /help... 
+hello {}, my name is {}! if you have any questions about how to use me please give me /help... 
 
-im a group manager bot maintained by  [this person](tg://user?id={}).
+i am a group manager bot maintained by  [this person](tg://user?id={}).
 
 
 For more commands click /help...
 
-**Keep in mind that any changes you DO do to the source have to be on github, as per the license.**
+**I AM MADE FOR VULNLOGIC TELUGU GROUP**
 
 """
 
@@ -141,8 +141,7 @@ def start(bot: Bot, update: Update, args: List[str]):
                 PM_START_TEXT.format(escape_markdown(first_name), escape_markdown(bot.first_name), OWNER_ID),
                 parse_mode=ParseMode.MARKDOWN)
     else:
-        update.effective_message.reply_text('''I am alive and working fine
-LOL!''')
+        update.effective_message.reply_text('''I am still alive dont worry mr.LOL ''')
 
 
 # for test purposes
