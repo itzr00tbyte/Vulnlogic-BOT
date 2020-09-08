@@ -32,9 +32,9 @@ This Bot Is Completely Maintained By [Certified_youtuber](tg://user?id={}).
 
 To Know How Bot Works Please Use This /help To Start This BOt
 
-For More Info Contact This Person [Certified_youtuber](tg://user?id={}).
+For More Info Contact This Person [Certified_youtuber](t.me/Certified_youtuber).
 
-✴  ✴  ✴ LOVE FROM VulnLogic 💘💘💘💘💘💘
+LOVE FROM VulnLogic 💘💘💘💘💘💘
 
 """
 
