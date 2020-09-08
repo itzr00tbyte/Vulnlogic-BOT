@@ -21,16 +21,20 @@ PM_START_TEXT = """
 hello {},
 My Name is {}!
 
-✴  🎀  𝒫𝐿𝑒𝒶𝓈𝑒 𝒩❀𝓉𝑒  🎀  ✴
+        ✴  🎀  𝒫𝐿𝑒𝒶𝓈𝑒 𝒩❀𝓉𝑒  🎀  ✴
+
+
 I Am Made For [vulnlogic Telugu](https://t.me/vulnlogic)
-Owner Of This Channel @n0tak1dd1y
 
-i am a group manager bot maintained by  [this person](tg://user?id={}).
+Owner Of This Channel [@n0tak1dd1y](t.me/n0tak1dd1y)
 
+This Bot Is Completely Maintained By [Certified_youtuber](tg://user?id={}).
 
-For more commands click /help...
+To Know How Bot Works Please Use This /help To Start This BOt
 
-**I AM MADE FOR VULNLOGIC TELUGU GROUP**
+For More Info Contact This Person [Certified_youtuber](tg://user?id={}).
+
+✴  ✴  ✴ LOVE FROM VulnLogic 💘💘💘💘💘💘
 
 """
 
