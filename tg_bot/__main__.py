@@ -21,9 +21,9 @@ PM_START_TEXT = """
 hello {},
 My Name is {}!
 
-"PLEASE NOTE"
+✴  🎀  𝒫𝐿𝑒𝒶𝓈𝑒 𝒩❀𝓉𝑒  🎀  ✴
 I Am Made For [vulnlogic Telugu](https://t.me/vulnlogic)
-Owner Of This Channel [@n0tak1dd1y](tg://user?id+=304348938)
+Owner Of This Channel @n0tak1dd1y
 
 i am a group manager bot maintained by  [this person](tg://user?id={}).
 
