@@ -18,7 +18,12 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-hello {}, my name is {}! if you have any questions about how to use me please give me /help... 
+hello {},
+My Name is {}!
+
+'PLEASE NOTE'
+I Am Made For [vulnlogic Telugu](https://t.me/vulnlogic)
+Owner Of This Channel [@n0tak1dd1y](tg://user?id+=304348938)
 
 i am a group manager bot maintained by  [this person](tg://user?id={}).
 
