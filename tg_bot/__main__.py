@@ -21,7 +21,7 @@ PM_START_TEXT = """
 hello {},
 My Name is {}!
 
-'PLEASE NOTE'
+"PLEASE NOTE"
 I Am Made For [vulnlogic Telugu](https://t.me/vulnlogic)
 Owner Of This Channel [@n0tak1dd1y](tg://user?id+=304348938)
 
